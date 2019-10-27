@@ -157,7 +157,7 @@ public class AboutUs extends javax.swing.JFrame {
         jTextPane1.setEditable(false);
         jTextPane1.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
         jTextPane1.setForeground(new java.awt.Color(0, 102, 102));
-        jTextPane1.setText("\"Blood Donation Drive (BDD)\".\nThe project was to build a java application connected to client databases,\nwhere the sole purpose was to help and ensure an adequate supply for \naccident victims.\n\nThis project is developed by:\n\nSE-IT-A 27 MEET JOSHI\nSE-IT-A 34 DION CHETTIAR\nSE-IT-A 42 KASHYAP TALATI \n\nContribution by each member:\n1) MEET JOSHI            - Front End, Back End (Home, Login, Loading,Help )\n2) DION CHETTIAR     - Front End, Back End (Profile,Sign Up, Forgot, About Us) \n3) KASHYAP TALATI    - Front End, Back End (Java Connect, Donate Blood, Request Blood, Step)\n");
+        jTextPane1.setText("\"Blood Donation Drive (BDD)\".\nThe project was to build a java application connected to client databases,\nwhere the sole purpose was to help and ensure an adequate supply for \naccident victims.\n\nThis project is developed by a second year Engineering Student \n-Kashyap Talati\n\nIf there are any queries related to the project mail me at - talatikashyap@gmail.com");
         jTextPane1.setToolTipText("The project was to build a java application connected to client databases,\nwhere the sole purpose was to help and ensure an adequate supply \nfor blood for accident victims. ");
         jScrollPane1.setViewportView(jTextPane1);
 
